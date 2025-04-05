@@ -1,30 +1,84 @@
 [
-    {
-        "key": "D",
-        "time": 1
-    },
-    {
-        "key": "J",
-        "time": 1
-    },
-    {
-        "key": "F",
-        "time": 2
-    },
-    {
-        "key": "K",
-        "time": 3
-    },
-    {
-        "key": "D",
-        "time": 3.5
-    },
-    {
-        "key": "F",
-        "time": 4
-    },
-    {
-        "key": "J",
-        "time": 4.7
-    }
+    { "key": "D", "time": 1.000 },
+    { "key": "F", "time": 1.062 },
+    { "key": "J", "time": 1.125 },
+    { "key": "K", "time": 1.187 },
+    { "key": "D", "time": 1.250 },
+    { "key": "F", "time": 1.312 },
+    { "key": "J", "time": 1.375 },
+    { "key": "K", "time": 1.437 },
+
+    { "key": "D", "time": 1.500 },
+    { "key": "F", "time": 1.562 },
+    { "key": "J", "time": 1.625 },
+    { "key": "K", "time": 1.687 },
+    { "key": "D", "time": 1.750 },
+    { "key": "F", "time": 1.812 },
+    { "key": "J", "time": 1.875 },
+    { "key": "K", "time": 1.937 },
+
+    { "key": "D", "time": 2.000 },
+    { "key": "K", "time": 2.000 },
+    { "key": "F", "time": 2.062 },
+    { "key": "J", "time": 2.062 },
+
+    { "key": "D", "time": 2.125 },
+    { "key": "F", "time": 2.125 },
+    { "key": "J", "time": 2.125 },
+    { "key": "K", "time": 2.125 },
+
+    { "key": "D", "time": 2.187 },
+    { "key": "F", "time": 2.250 },
+    { "key": "J", "time": 2.312 },
+    { "key": "K", "time": 2.375 },
+    { "key": "F", "time": 2.437 },
+    { "key": "D", "time": 2.500 },
+    { "key": "K", "time": 2.562 },
+    { "key": "J", "time": 2.625 },
+
+    { "key": "D", "time": 2.750 },
+    { "key": "D", "time": 2.812 },
+    { "key": "F", "time": 2.875 },
+    { "key": "F", "time": 2.937 },
+    { "key": "J", "time": 3.000 },
+    { "key": "J", "time": 3.062 },
+    { "key": "K", "time": 3.125 },
+    { "key": "K", "time": 3.187 },
+
+    { "key": "D", "time": 3.250 },
+    { "key": "K", "time": 3.312 },
+    { "key": "F", "time": 3.375 },
+    { "key": "J", "time": 3.437 },
+    { "key": "D", "time": 3.500 },
+    { "key": "K", "time": 3.562 },
+    { "key": "F", "time": 3.625 },
+    { "key": "J", "time": 3.687 },
+
+    { "key": "D", "time": 3.750 },
+    { "key": "F", "time": 3.812 },
+    { "key": "J", "time": 3.875 },
+    { "key": "K", "time": 3.937 },
+    { "key": "D", "time": 4.000 },
+    { "key": "F", "time": 4.000 },
+    { "key": "J", "time": 4.000 },
+    { "key": "K", "time": 4.000 },
+
+    { "key": "D", "time": 4.125 },
+    { "key": "F", "time": 4.187 },
+    { "key": "J", "time": 4.250 },
+    { "key": "K", "time": 4.312 },
+    { "key": "D", "time": 4.375 },
+    { "key": "F", "time": 4.437 },
+    { "key": "J", "time": 4.500 },
+    { "key": "K", "time": 4.562 },
+
+    { "key": "D", "time": 4.625 },
+    { "key": "F", "time": 4.625 },
+    { "key": "J", "time": 4.625 },
+    { "key": "K", "time": 4.625 },
+
+    { "key": "D", "time": 4.687 },
+    { "key": "F", "time": 4.687 },
+    { "key": "J", "time": 4.687 },
+    { "key": "K", "time": 4.687 }
 ]

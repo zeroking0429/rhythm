@@ -1,5 +1,6 @@
 const activeNotes = [];
 let combo = 0;
+const fallingSpeedMultiplier = 0.5;
 
 window.addEventListener("keydown", e => {
     const key = document.getElementById(e.key);
@@ -55,10 +56,10 @@ function spawnNote(key) {
 }
 
 function animateNote(noteDiv) {
-    noteDiv.classList.add("falling");
+    const duration = 2 * fallingSpeedMultiplier; // 기본 2초 기준
+    noteDiv.style.animation = `fall ${duration}s linear forwards`;
 
     noteDiv.addEventListener("animationend", () => {
-        showJudgment(`Miss`);
         noteDiv.remove();
     });
 }
